@@ -1,0 +1,1 @@
+This is a digital advent calendar that will be used to temporarily replace the physical one.
