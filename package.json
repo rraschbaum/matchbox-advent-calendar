@@ -1,0 +1,22 @@
+{
+  "name": "matchbox-advent-calendar",
+  "version": "1.0.0",
+  "description": "Digital advent calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rraschbaum/matchbox-advent-calendar.git"
+  },
+  "author": "\"Ryan\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rraschbaum/matchbox-advent-calendar/issues"
+  },
+  "homepage": "https://github.com/rraschbaum/matchbox-advent-calendar#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
