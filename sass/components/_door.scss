@@ -1,0 +1,18 @@
+.doors {
+    width: 65%;
+    float: right;
+}
+
+.door {
+    background-color: $color-gray-dark;
+    display: inline-block;
+    padding: 1rem;
+    width: 10rem;
+    height: 10rem;
+    margin: .5rem;
+    border-radius: .5rem;
+}
+
+.number {
+    color: $color-white;
+}
